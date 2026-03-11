@@ -84,6 +84,9 @@ If you want to collaborate or connect with me:
 GitHub  
 https://github.com/agusadhitama
 
+Email
+agusadhitama95@gmail.com
+
 ---
 
 # ⭐ Author
