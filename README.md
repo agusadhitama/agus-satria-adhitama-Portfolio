@@ -51,7 +51,7 @@ This project was built using:
 
 # 📸 Preview
 
-![Portfolio Preview](preview.png)
+![Portfolio Preview](preview.PNG)
 
 ---
 
